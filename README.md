@@ -1,6 +1,6 @@
 # kernelbuilder
 
-A build environment to make it easier to build your own kernel. Currently configured for 4.3, this is easy enough to configure.
+A build environment to make it easier to build your own kernel. Currently configured for 4.3, but it is easy enough to reconfigure for other kernels.
 
 ## Usage
 
